@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1643816871 source:c:\users\lilia\desktop\informatique\c\tp_oc\tp_oc2b\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"dico.h"
+
+1248093254 c:\users\lilia\desktop\informatique\c\tp_oc\tp_oc2b\dico.h
+
